@@ -7,7 +7,7 @@ The goal is not just to write code, but to understand how Java works internally 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Learn Java from zero to advanced level
 - Practice Object-Oriented Programming (OOP)
